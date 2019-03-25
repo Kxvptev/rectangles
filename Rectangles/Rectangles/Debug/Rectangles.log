@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  Rectangles.cpp
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(42): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(46): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(51): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(59): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(69): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(71): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(73): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(78): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(82): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(94): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(102): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\программирование\ms vc++\rectangles\rectangles\rectangles.cpp(105): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+  Rectangles.vcxproj -> D:\Программирование\MS VC++\Rectangles\Debug\Rectangles.exe
